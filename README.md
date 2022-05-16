@@ -11,7 +11,7 @@ I'm a Student. I made project just for fun.
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Front End Development 
 
